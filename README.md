@@ -22,7 +22,7 @@ These solutions can be understood by people without much to any programming expe
       1
     </th>
     <th>
-      [HackerRank Day 1](https://www.hackerrank.com/challenges/30-data-types/problem)
+      [HackerRank Day 1] (https://www.hackerrank.com/challenges/30-data-types/problem)
     </th>
     <th>
       [Solution]()
@@ -33,7 +33,7 @@ These solutions can be understood by people without much to any programming expe
       2
     </th>
     <th>
-      [HackerRank Day 2](https://www.hackerrank.com/challenges/30-operators/problem)
+      [HackerRank Day 2] (https://www.hackerrank.com/challenges/30-operators/problem)
     </th>
     <th>
       [Solution]()
@@ -44,7 +44,7 @@ These solutions can be understood by people without much to any programming expe
       3
     </th>
     <th>
-      [HackerRank Day 3](https://www.hackerrank.com/challenges/30-conditional-statements/problem)
+      [HackerRank Day 3] (https://www.hackerrank.com/challenges/30-conditional-statements/problem)
     </th>
     <th>
       [Solution]()
@@ -55,7 +55,7 @@ These solutions can be understood by people without much to any programming expe
       4
     </th>
     <th>
-      [HackerRank Day 4](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
+      [HackerRank Day 4] (https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
     </th>
     <th>
       [Solution]()
@@ -66,7 +66,7 @@ These solutions can be understood by people without much to any programming expe
       5
     </th>
     <th>
-      [HackerRank Day 5](https://www.hackerrank.com/challenges/30-loops/problem)
+      [HackerRank Day 5] (https://www.hackerrank.com/challenges/30-loops/problem)
     </th>
     <th>
       [Solution]()
@@ -77,7 +77,7 @@ These solutions can be understood by people without much to any programming expe
       6
     </th>
     <th>
-      [HackerRank Day 6](https://www.hackerrank.com/challenges/30-review-loop/problem)
+      [HackerRank Day 6] (https://www.hackerrank.com/challenges/30-review-loop/problem)
     </th>
     <th>
       [Solution]()
@@ -88,7 +88,7 @@ These solutions can be understood by people without much to any programming expe
       7
     </th>
     <th>
-      [HackerRank Day 7](https://www.hackerrank.com/challenges/30-arrays/problem)
+      [HackerRank Day 7] (https://www.hackerrank.com/challenges/30-arrays/problem)
     </th>
     <th>
       [Solution]()
@@ -99,7 +99,7 @@ These solutions can be understood by people without much to any programming expe
       8
     </th>
     <th>
-      [HackerRank Day 8](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
+      [HackerRank Day 8] (https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
     </th>
     <th>
       [Solution]()
@@ -110,7 +110,7 @@ These solutions can be understood by people without much to any programming expe
       9
     </th>
     <th>
-      [HackerRank Day 9](https://www.hackerrank.com/challenges/30-recursion/problem)
+      [HackerRank Day 9] (https://www.hackerrank.com/challenges/30-recursion/problem)
     </th>
     <th>
       [Solution]()
@@ -121,7 +121,7 @@ These solutions can be understood by people without much to any programming expe
       10
     </th>
     <th>
-      [HackerRank Day 10](https://www.hackerrank.com/challenges/30-binary-numbers/problem)
+      [HackerRank Day 10] (https://www.hackerrank.com/challenges/30-binary-numbers/problem)
     </th>
     <th>
       [Solution]()
@@ -132,7 +132,7 @@ These solutions can be understood by people without much to any programming expe
       11
     </th>
     <th>
-      [HackerRank Day 11](https://www.hackerrank.com/challenges/30-2d-arrays/problem)
+      [HackerRank Day 11] (https://www.hackerrank.com/challenges/30-2d-arrays/problem)
     </th>
     <th>
       [Solution]()
@@ -143,7 +143,7 @@ These solutions can be understood by people without much to any programming expe
       12
     </th>
     <th>
-      [HackerRank Day 12](https://www.hackerrank.com/challenges/30-inheritance/problem)
+      [HackerRank Day 12] (https://www.hackerrank.com/challenges/30-inheritance/problem)
     </th>
     <th>
       [Solution]()
@@ -154,7 +154,7 @@ These solutions can be understood by people without much to any programming expe
       13
     </th>
     <th>
-      [HackerRank Day 13](https://www.hackerrank.com/challenges/30-abstract-classes/problem)
+      [HackerRank Day 13] (https://www.hackerrank.com/challenges/30-abstract-classes/problem)
     </th>
     <th>
       [Solution]()
@@ -165,7 +165,7 @@ These solutions can be understood by people without much to any programming expe
       14
     </th>
     <th>
-      [HackerRank Day 14](https://www.hackerrank.com/challenges/30-scope/problem)
+      [HackerRank Day 14] (https://www.hackerrank.com/challenges/30-scope/problem)
     </th>
     <th>
       [Solution]()
@@ -176,7 +176,7 @@ These solutions can be understood by people without much to any programming expe
       15
     </th>
     <th>
-      [HackerRank Day 15](https://www.hackerrank.com/challenges/30-linked-list/problem)
+      [HackerRank Day 15] (https://www.hackerrank.com/challenges/30-linked-list/problem)
     </th>
     <th>
       [Solution]()
@@ -187,7 +187,7 @@ These solutions can be understood by people without much to any programming expe
       16
     </th>
     <th>
-      [HackerRank Day 16](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
+      [HackerRank Day 16] (https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
     </th>
     <th>
       [Solution]()
@@ -198,7 +198,7 @@ These solutions can be understood by people without much to any programming expe
       17
     </th>
     <th>
-      [HackerRank Day 17](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
+      [HackerRank Day 17] (https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
     </th>
     <th>
       [Solution]()
@@ -209,7 +209,7 @@ These solutions can be understood by people without much to any programming expe
       18
     </th>
     <th>
-      [HackerRank Day 18](https://www.hackerrank.com/challenges/30-queues-stacks/problem)
+      [HackerRank Day 18] (https://www.hackerrank.com/challenges/30-queues-stacks/problem)
     </th>
     <th>
       [Solution]()
@@ -220,7 +220,7 @@ These solutions can be understood by people without much to any programming expe
       19
     </th>
     <th>
-      [HackerRank Day 19](https://www.hackerrank.com/challenges/30-interfaces/problem)
+      [HackerRank Day 19] (https://www.hackerrank.com/challenges/30-interfaces/problem)
     </th>
     <th>
       [Solution]()
@@ -231,7 +231,7 @@ These solutions can be understood by people without much to any programming expe
       20
     </th>
     <th>
-      [HackerRank Day 20](https://www.hackerrank.com/challenges/30-sorting/problem)
+      [HackerRank Day 20] (https://www.hackerrank.com/challenges/30-sorting/problem)
     </th>
     <th>
       [Solution]()
@@ -242,7 +242,7 @@ These solutions can be understood by people without much to any programming expe
       21
     </th>
     <th>
-      [HackerRank Day 21](https://www.hackerrank.com/challenges/30-generics/problem)
+      [HackerRank Day 21] (https://www.hackerrank.com/challenges/30-generics/problem)
     </th>
     <th>
       [Solution]()
@@ -253,7 +253,7 @@ These solutions can be understood by people without much to any programming expe
       22
     </th>
     <th>
-      [HackerRank Day 22](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
+      [HackerRank Day 22] (https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
     </th>
     <th>
       [Solution]()
@@ -264,7 +264,7 @@ These solutions can be understood by people without much to any programming expe
       23
     </th>
     <th>
-      [HackerRank Day 23](https://www.hackerrank.com/challenges/30-binary-trees/problem)
+      [HackerRank Day 23] (https://www.hackerrank.com/challenges/30-binary-trees/problem)
     </th>
     <th>
       [Solution]()
@@ -275,7 +275,7 @@ These solutions can be understood by people without much to any programming expe
       24
     </th>
     <th>
-      [HackerRank Day 24](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
+      [HackerRank Day 24] (https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
     </th>
     <th>
       [Solution]()
@@ -286,7 +286,7 @@ These solutions can be understood by people without much to any programming expe
       25
     </th>
     <th>
-      [HackerRank Day 25](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)
+      [HackerRank Day 25] (https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)
     </th>
     <th>
       [Solution]()
@@ -297,7 +297,7 @@ These solutions can be understood by people without much to any programming expe
       26
     </th>
     <th>
-      [HackerRank Day 26](https://www.hackerrank.com/challenges/30-nested-logic/problem)
+      [HackerRank Day 26] (https://www.hackerrank.com/challenges/30-nested-logic/problem)
     </th>
     <th>
       [Solution]()
@@ -308,7 +308,7 @@ These solutions can be understood by people without much to any programming expe
       27
     </th>
     <th>
-      [HackerRank Day 27](https://www.hackerrank.com/challenges/30-testing/problem)
+      [HackerRank Day 27] (https://www.hackerrank.com/challenges/30-testing/problem)
     </th>
     <th>
       [Solution]()
@@ -319,7 +319,7 @@ These solutions can be understood by people without much to any programming expe
       28
     </th>
     <th>
-      [HackerRank Day 28](https://www.hackerrank.com/challenges/30-regex-patterns/problem)
+      [HackerRank Day 28] (https://www.hackerrank.com/challenges/30-regex-patterns/problem)
     </th>
     <th>
       [Solution]()
@@ -330,7 +330,7 @@ These solutions can be understood by people without much to any programming expe
       29
     </th>
     <th>
-      [HackerRank Day 29](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
+      [HackerRank Day 29] (https://www.hackerrank.com/challenges/30-bitwise-and/problem)
     </th>
     <th>
       [Solution]()
