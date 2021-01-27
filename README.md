@@ -1,8 +1,8 @@
 # HackerRank-30-Days-of-Code  
-<pre>
+
 Solutions for HackerRank's [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) in **Python.**  
 These solutions can be understood by people without much to any programming experience in Python. 
-</pre>
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 | Day | Question | Solution |
