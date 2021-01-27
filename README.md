@@ -2,8 +2,12 @@
 
 Solutions for HackerRank's [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) in **Python.**  
 These solutions can be understood by people without much to any programming experience in Python. 
-[HackerRank Day 1](https://www.hackerrank.com/challenges/30-data-types/problem)
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+| Day | Question | Solution |
+| --- | --- | --- |
+| 1 | [HackerRank Day 1](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution]() |
+
 
 <table>
   <tr>
