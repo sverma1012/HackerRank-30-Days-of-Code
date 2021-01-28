@@ -7,7 +7,7 @@ These solutions can be understood by people without much to any programming expe
 
 | Day | Question | Solution |
 | --- | --- | --- |
-| 1 | [HackerRank Day 1](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution]() |
+| 1 | [HackerRank Day 1](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%201.py) |
 | 2 | [HackerRank Day 2](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution]() |
 | 3 | [HackerRank Day 1](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution]() |
 | 4 | [HackerRank Day 3](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution]() |
