@@ -11,9 +11,9 @@ import sys
 
 # Complete the solve function below.
 def solve(meal_cost, tip_percent, tax_percent):
-    meal_tip = meal_cost + (meal_cost * (tip_percent / 100))
-    meal_tip_tax = meal_tip + (meal_cost * (tax_percent / 100))
-    print(round(meal_tip_tax))
+    meal_tip = meal_cost + (meal_cost * (tip_percent / 100)) # The meal cost plus the tip given
+    meal_tip_tax = meal_tip + (meal_cost * (tax_percent / 100)) # The meal cost plus the tip plus the tax
+    print(round(meal_tip_tax)) # print resultant value
 
 
 if __name__ == '__main__':
