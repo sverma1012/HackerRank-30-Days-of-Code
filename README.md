@@ -11,7 +11,7 @@ These solutions can be understood by people without much to any programming expe
 | 2 | [HackerRank Day 2](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%202:%20Operators.py) |
 | 3 | [HackerRank Day 3](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%203:%20Conditional%20Statements.py) |
 | 4 | [HackerRank Day 4](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%204:%20Class%20vs%20Instance.py) |
-| 5 | [HackerRank Day 5](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution]() |
+| 5 | [HackerRank Day 5](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%205:%20Loops.py) |
 | 6 | [HackerRank Day 6](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution]() |
 | 7 | [HackerRank Day 7](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution]() |
 | 8 | [HackerRank Day 8](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution]() |
