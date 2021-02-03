@@ -14,7 +14,7 @@ These solutions can be understood by people without much to any programming expe
 | 5 | [HackerRank Day 5](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%205:%20Loops.py) |
 | 6 | [HackerRank Day 6](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%206:%20Review.py) |
 | 7 | [HackerRank Day 7](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%207:%20Arrays.py) |
-| 8 | [HackerRank Day 8](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution]() |
+| 8 | [HackerRank Day 8](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%208:%20Dictionaries%20and%20Maps.py) |
 | 9 | [HackerRank Day 9](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution]() |
 | 10 | [HackerRank Day 10](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution]() |
 | 11 | [HackerRank Day 11](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution]() |
