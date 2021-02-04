@@ -18,7 +18,7 @@ These solutions can be understood by people without much to any programming expe
 | 9 | [HackerRank Day 9](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%209:%20Recursion.py) |
 | 10 | [HackerRank Day 10](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%2010:%20Binary%20Numbers.py) |
 | 11 | [HackerRank Day 11](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%2011:%202D%20Arrays.py) |
-| 12 | [HackerRank Day 12](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution]() |
+| 12 | [HackerRank Day 12](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%2012:%20Inheritance.py) |
 | 13 | [HackerRank Day 13](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solution]() |
 | 14 | [HackerRank Day 14](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution]() |
 | 15 | [HackerRank Day 15](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solution]() |
