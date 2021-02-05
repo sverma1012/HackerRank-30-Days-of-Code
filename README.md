@@ -21,7 +21,7 @@ These solutions can be understood by people without much to any programming expe
 | 12 | [HackerRank Day 12](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%2012:%20Inheritance.py) |
 | 13 | [HackerRank Day 13](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%2013:%20Abstract%20Classes.py) |
 | 14 | [HackerRank Day 14](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%2014:%20Scope.py) |
-| 15 | [HackerRank Day 15](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solution]() |
+| 15 | [HackerRank Day 15](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%2015:%20Linked%20List.py) |
 | 16 | [HackerRank Day 16](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Solution]() |
 | 17 | [HackerRank Day 17](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution]() |
 | 18 | [HackerRank Day 18](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solution]() |
