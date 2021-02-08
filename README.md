@@ -23,8 +23,8 @@ These solutions can be understood by people without much to any programming expe
 | 14 | [HackerRank Day 14](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%2014:%20Scope.py) |
 | 15 | [HackerRank Day 15](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%2015:%20Linked%20List.py) |
 | 16 | [HackerRank Day 16](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code) |
-| 17 | [HackerRank Day 17](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution]() |
-| 18 | [HackerRank Day 18](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solution]() |
+| 17 | [HackerRank Day 17](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%2017:%20More%20Exceptions.py) |
+| 18 | [HackerRank Day 18](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solution](https://github.com/sverma1012/HackerRank-30-Days-of-Code/blob/main/Day%2018:%20Queues%20and%20Stacks.py) |
 | 19 | [HackerRank Day 19](https://www.hackerrank.com/challenges/30-interfaces/problem) | [Solution]() |
 | 20 | [HackerRank Day 20](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solution]() |
 | 21 | [HackerRank Day 21](https://www.hackerrank.com/challenges/30-generics/problem) | [Solution]() |
