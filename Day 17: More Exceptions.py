@@ -1,3 +1,5 @@
+Goal: More Exceptions
+
 #Write your code here
 class Calculator:
     def power(self, n, p):
